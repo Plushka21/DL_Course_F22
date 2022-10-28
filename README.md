@@ -1,2 +1,4 @@
-# DL_Course_F22
-Solutions for Deep Learning course
+# DL Course F22
+Solutions for Practical Machine Learning & Deep Learning course
+
+Innopolis University, Fall 2022
